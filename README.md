@@ -12,10 +12,10 @@ Beause Laravel (latest releases) now comes with Tailwind configured by default, 
 
 Just follow the workflow below and you should be all set
 
+(Assets are already compiled, so you just need to serve the damn thing)
+
 ```
 composer install
-~~npm install~~ (the assets are already compiled)
-~~npm run watch~~ (the assets are already compiled)
 php artisan serve
 ```
 
