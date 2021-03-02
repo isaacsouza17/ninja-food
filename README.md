@@ -14,8 +14,8 @@ Just follow the workflow below and you should be all set
 
 ```
 composer install
-npm install
-npm run watch
+~~npm install~~ (the assets are already compiled)
+~~npm run watch~~ (the assets are already compiled)
 php artisan serve
 ```
 
